@@ -1,0 +1,23 @@
+{
+  "name": "pratica-desenvolvimento-typescript",
+  "version": "1.0.0",
+  "description": "Projeto de teste do TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts",
+    "usuario",
+    "criacao"
+  ],
+  "author": "Marcelo e Erik",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/node": "^16.4.6",
+    "query-string": "^7.0.1"
+  }
+}
